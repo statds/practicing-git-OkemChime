@@ -21,3 +21,15 @@ GitHub offers a series of interactive, on-demand training courses including Intr
 GitHub's web-based educational programs
 
 GitHub offers live trainings with a hands-on, project-based approach for those who love the command line and those who don't.
+
+-----
+
+Extras
+
+An interactive online Git course from Pluralsight has seven levels with dozens of exercises in a fun game format. Feel free to adapt our .gitignore templates to meet your needs.
+
+Extend your GitHub reach through integrations, or by installing GitHub Desktop and the robust Visual Studio Code text editor.
+
+Learn how to launch and grow your open source project with the Open Source Guides.
+
+
